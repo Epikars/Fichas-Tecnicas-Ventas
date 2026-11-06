@@ -9,3 +9,8 @@ Entrega del PDF de dos páginas y sus imágenes PNG (1080 × 1920 por página).
 Para guardar un archivo, ábrelo y pulsa **Download raw file / Descargar archivo sin procesar**. Si el repositorio es privado, inicia sesión con una cuenta con acceso.
 
 Esta rama contiene únicamente la entrega y este índice. No modifica el código de la aplicación ni otras ramas.
+
+## PDF por separado
+
+- [Página 1 en PDF](entregas/SHACMAN/SHACMAN-EPIKARS-Pagina-1.pdf)
+- [Página 2 en PDF](entregas/SHACMAN/SHACMAN-EPIKARS-Pagina-2.pdf)
