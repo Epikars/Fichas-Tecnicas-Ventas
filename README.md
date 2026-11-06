@@ -14,3 +14,12 @@ Esta rama contiene únicamente la entrega y este índice. No modifica el código
 
 - [Página 1 en PDF](entregas/SHACMAN/SHACMAN-EPIKARS-Pagina-1.pdf)
 - [Página 2 en PDF](entregas/SHACMAN/SHACMAN-EPIKARS-Pagina-2.pdf)
+
+## SHACMAN X3000 4×2 ISM · EURO V · 2025
+
+- [PDF completo — tres páginas](entregas/SHACMAN-X3000-2025/SHACMAN-X3000-2025-EPIKARS.pdf)
+- [Página 1 en PDF](entregas/SHACMAN-X3000-2025/SHACMAN-X3000-2025-Pagina-1.pdf)
+- [Página 2 en PDF](entregas/SHACMAN-X3000-2025/SHACMAN-X3000-2025-Pagina-2.pdf)
+- [Página 3 en PDF](entregas/SHACMAN-X3000-2025/SHACMAN-X3000-2025-Pagina-3.pdf)
+
+Los PNG de cada página se encuentran en la misma carpeta. La ficha del L3000 se conserva sin cambios.
