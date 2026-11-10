@@ -23,3 +23,14 @@ Esta rama contiene únicamente la entrega y este índice. No modifica el código
 - [Página 3 en PDF](entregas/SHACMAN-X3000-2025/SHACMAN-X3000-2025-Pagina-3.pdf)
 
 Los PNG de cada página se encuentran en la misma carpeta. La ficha del L3000 se conserva sin cambios.
+
+## Fichas en JPEG
+
+Cinco imágenes JPEG de alta calidad, sin cambios de diseño ni resolución (1080 × 1920 por hoja).
+
+- [Paquete completo JPEG](entregas/Fichas-SHACMAN-JPEG.zip)
+- [L3000 · Hoja 1](entregas/SHACMAN/SHACMAN-L3000-Pagina-1.jpg)
+- [L3000 · Hoja 2](entregas/SHACMAN/SHACMAN-L3000-Pagina-2.jpg)
+- [X3000 · Hoja 1](entregas/SHACMAN-X3000-2025/SHACMAN-X3000-Pagina-1.jpg)
+- [X3000 · Hoja 2](entregas/SHACMAN-X3000-2025/SHACMAN-X3000-Pagina-2.jpg)
+- [X3000 · Hoja 3](entregas/SHACMAN-X3000-2025/SHACMAN-X3000-Pagina-3.jpg)
